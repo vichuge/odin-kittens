@@ -30,6 +30,7 @@ gem 'bootsnap', '>= 1.4.4', require: false
 
 # My gems
 gem 'rubocop', '>= 1.0', '< 2.0'
+gem 'rest-client', '~> 1.8'
 
 group :development, :test do
   # Call 'byebug' anywhere in the code to stop execution and get a debugger console
